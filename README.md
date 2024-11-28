@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shakaib naqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakaib naqvi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shakaib naqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shakaib naqvi" height="30" width="40" /></a>
-<a href="https://medium.com/@shakaibnaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakaibnaqvi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shakaib-naqvi-3b1a161a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakaib naqvi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shakaib-naqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shakaib naqvi" height="30" width="40" /></a>
+<a href="https://medium.com/@shakaibnaqvi401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shakaib naqvi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
